@@ -2,6 +2,6 @@
 -react-graph-vis
 -storm-react-diagrams
 
-##Author
+## Author
 Sébastien BENARD
 original code from https://github.com/2slow/react-from-scratch
