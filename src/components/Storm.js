@@ -1,7 +1,7 @@
 import React, {Component, PropTypes} from "react";
 import ReactDOM from "react-dom";
-
 import SRD from "storm-react-diagrams";
+
 class Storm extends Component {
     static propTypes = {};
 
