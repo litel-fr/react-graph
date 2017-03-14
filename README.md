@@ -1,6 +1,6 @@
 ## Graphs simple example
--react-graph-vis
--storm-react-diagrams
+
+Simple react react-graph-vis / storm-react-diagrams graph example using components
 
 ## Author
 Sébastien BENARD
